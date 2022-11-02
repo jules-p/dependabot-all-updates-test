@@ -41,7 +41,7 @@ dependencies {
     compile group: 'com.bugsnag', name: 'bugsnag', version: '3.1.5'
     compile group: 'com.zaxxer', name: 'HikariCP', version: '2.7.8'
     compile group: 'org.eclipse.jgit', name: 'org.eclipse.jgit', version: '4.11.0.201803080745-r'
-    compile group: 'org.hibernate', name: 'hibernate-core', version: '5.3.0.CR1'
+    compile group: 'org.hibernate', name: 'hibernate-core', version: '6.1.5.Final'
     compile group: 'com.dumptruckman.minecraft', name: 'JsonConfiguration', version: '1.1'
     compile group: 'org.inventivetalent', name: 'mc-wrappers', version: '1.0.3-SNAPSHOT'
     compile group: 'io.github.lukehutch', name: 'fast-classpath-scanner', version: '2.18.1'
