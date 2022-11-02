@@ -38,7 +38,7 @@ dependencies {
     compile group: 'co.aikar', name: 'taskchain-bukkit', version: '3.6.0'
     compile group: 'net.kyori', name: 'text', version: '1.12-1.4.0'
     compile group: 'org.bstats', name: 'bstats-bukkit', version: '1.2'
-    compile group: 'com.bugsnag', name: 'bugsnag', version: '3.1.5'
+    compile group: 'com.bugsnag', name: 'bugsnag', version: '3.6.4'
     compile group: 'com.zaxxer', name: 'HikariCP', version: '2.7.8'
     compile group: 'org.eclipse.jgit', name: 'org.eclipse.jgit', version: '4.11.0.201803080745-r'
     compile group: 'org.hibernate', name: 'hibernate-core', version: '5.3.0.CR1'
